@@ -5,6 +5,6 @@ services:
     environment:
       APP_ID: $APP_ID
       API_HASH: $API_HASH
-      BOT_TOKEN: $BOT_TOKEN
+      BOT_TOKEN: $7233484534:AAElm3P0GZGF8p4XKxRYpLV4ozw3F969-D0
       OWNER: $OWNER
       THUMBNAIL: $THUMBNAIL
